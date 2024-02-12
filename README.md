@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonio Donnangelo</h1>
 <h3 align="center">An agronomist passionate about technology</h3>
-<img align="right" alt="Coding" width="400" src= https://www.andrew.cmu.edu/course/16-825/projects/vmanihem/proj1/data/Untitled%207.gif>
+<img align="right" alt="Coding" width="400" src= vite.png>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoniodonnangelo&label=Profile%20views&color=0e75b6&style=flat" alt="antoniodonnangelo" /> </p>
 
